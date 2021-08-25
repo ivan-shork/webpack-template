@@ -1,0 +1,7 @@
+// @import "./common.css";
+$bg-color: #ee3;
+
+.box {
+  @include my-css();
+  // background: $bg-color;
+}

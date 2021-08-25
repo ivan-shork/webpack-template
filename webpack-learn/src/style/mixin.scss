@@ -1,0 +1,8 @@
+@mixin my-css {
+  display: flex;
+  height: 100px;
+  color: red;
+  justify-content: center;
+  align-items: center;
+  background: url("@/img/banner_mumber.jpg");
+}
